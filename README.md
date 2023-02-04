@@ -1,6 +1,8 @@
 # Moomoo.io Zoom hack
 > Allows to change zoom of the game using mouse wheels
 
+**[CLICK TO INSTALL THE SCRIPT](https://greasyfork.org/en/scripts/447069-moomoo-io-zoom-hack)**
+
 <img src="https://i.imgur.com/NVZH8RP.png" height="200em"/>
 
 ### More about:
